@@ -1,3 +1,10 @@
+---
+title: "Activity"
+author: "Najim Rahman Valappil"
+date: "08/10/2020"
+output: html_document
+---
+
 # Reproducible Research:  Personal Activity Monitoring
 
 ## Processing the data
